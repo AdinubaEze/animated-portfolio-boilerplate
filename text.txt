@@ -1,5 +1,12 @@
 
 ------------------------------------------------------------------------------------
+Intro title: I'M A WEB DEVELOPER
+Intro description: I dissect intricate user experience challenges to engineer 
+integrity-focused solutions that resonate with billions of users.
+------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------
 About Me:
 Experienced Full Stack Developer with a passion for creating dynamic, intuitive, and
 responsive applications. Proficient in multiple programming languages and frameworks, 
@@ -9,7 +16,7 @@ and a track record of delivering high-quality code on time and on budget.
 
 
 ------------------------------------------------------------------------------------
-Services Description:I transform your ideas, and consequently your desires, into a 
+Services Description: I transform your ideas, and consequently your desires, into a 
 distinctive web project that both inspires you and captivates your customers.
 
 Services cards:Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione 
@@ -20,7 +27,7 @@ eligendi, adipisci sequi reiciendis quisquam? Sapiente optio rerum sequi!
 
 
 ------------------------------------------------------------------------------------
-Testimonial Description:Discover what clients are saying about their experiences working 
+Testimonial Description: Discover what clients are saying about their experiences working 
 with me as their trusted web developer. From startups to established businesses, my dedication 
 to crafting exceptional online experiences shines through in their words. 
 ------------------------------------------------------------------------------------
